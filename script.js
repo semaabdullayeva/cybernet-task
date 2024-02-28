@@ -10,7 +10,7 @@ $(document).ready(function () {
                       <td>${post.id}</td>
                       <td>${post.title}</td>
                       <td class="shorten">${bodyText}</td>
-                      <td class="commentsColumn">Loading...</td> <!-- Yüklenme göstergesi -->
+                      <td class="commentsColumn">Loading...</td> 
                   </tr>
               `);
 
